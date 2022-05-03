@@ -1,2 +1,2 @@
-﻿# WAD-Miniproject
- # Furniture store using MERN Stack
+﻿##### WAD-Miniproject
+ ##### Furniture store using MERN Stack
